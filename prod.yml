@@ -5,4 +5,5 @@ AWS_REGION=us-east-2
 AWS_BUCKET=ibk-bucket-prod
 
 AWS_BUCKET=ibk-bucket-test-1
+AWS_BUCKET-SSS=ibk-bucket-test-ss-1
 
